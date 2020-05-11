@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map Logger
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Hedorah	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin			KEYWORD2
+GetTVOC			KEYWORD2
+GeteCO2 		KEYWORD2
+GetH2			KEYWORD2
+GetEthanol		KEYWORD2
+GetTemperature	KEYWORD2
+GetRH			KEYWORD2
+UpdateBaseline	KEYWORD2
+GetHeader		KEYWORD2
+GetString		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
+
